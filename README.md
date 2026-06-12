@@ -28,7 +28,6 @@ An enterprise-grade, multi-modal AI agent desktop terminal built using the **Goo
 ### 2. Multi-Turn Conversational Context Retention
 ![Conversational Context Retention](02_conversational_context_retention.png)
 * **Behavior Profile:** Validates conversational history state tracking across consecutive inputs. When prompted with a follow-up comparative statement about London, the agent maintains context, fires a secondary database lookup ($799.0), updates the responsive HTML *Latest Passenger Alert* panel, and streams an updated voice asset.
-
 ---
 
 ## 🏃‍♂️ Installation & Execution Setup
